@@ -1,6 +1,6 @@
 data "tfe_outputs" "test" {
     organization =  "devopsmayur"
-    workspace = "source"
+    workspace = "randomintegeroutput"
 }
 
 
